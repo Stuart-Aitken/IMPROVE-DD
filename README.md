@@ -18,7 +18,7 @@ To run either the TF IDF IC analysis or the IMPROVE HPO term classifier, a matri
 
 All R code:
 #Copyright (C) 2022 The University of Edinburgh 
-#Author Stuart Aitken MRC IGC s.aitken@ed.ac.uk
+#Author Stuart Aitken MRC HGU IGC s.aitken@ed.ac.uk
 #All Rights Reserved.
 #Funded by the Medical Research Council
 #https://www.ed.ac.uk/mrc-human-genetics-unit**
