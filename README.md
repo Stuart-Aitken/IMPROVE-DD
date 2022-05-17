@@ -4,7 +4,7 @@
     Integrating Multiple Phenotype <br>Resources Optimises Variant Evaluation in Developmental Disorders<br>
     Aitken, FitzPatrick, Semple et al. 2022 </th>
     <th style="width:70%"> 
-  <img src="https://github.com/JStuartAitken/IMPROVE/blob/main/improve.png" width="300" alt="IMPROVE-DD">
+  <img src="https://github.com/Stuart-Aitken/IMPROVE-DD/blob/main/improve.png" width="300" alt="IMPROVE-DD">
      </th>
   </tr>
   </table>
