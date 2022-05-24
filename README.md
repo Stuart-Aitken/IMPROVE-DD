@@ -1,4 +1,4 @@
-# IMPROVE
+# IMPROVE-DD
 <table style="width:100%">
   <tr> <th style="width:30%">IMPROVE-DD:<br>
      Integrating Multiple Phenotype <br>Resources Optimises Variant Evaluation in genetically determined Developmental Disorders<br>
