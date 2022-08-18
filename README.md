@@ -13,7 +13,7 @@
 Version 02/08/2021 available: https://bioportal.bioontology.org/ontologies/HP
 
 
-To run either the TF IDF IC analysis or the IMPROVE HPO term classifier, a matrix of cases * HPO terms needs to be created (see IMPROVE_resource.r). Should a database of HPO annotations not be available, a small set of demo data can be created using IMPROVE_resource.r to enable the main code to be run.
+To run either the TF IDF IC analysis or the IMPROVE HPO term classifier, a matrix of cases * HPO terms needs to be created (see IMPROVE_resource.r). Should a database of HPO annotations not be available, a small set of demo data can be created using IMPROVE_resource.r to enable the main code to be run. See the one page tutorial <b>IMPROVE-DD_tutorial.pdf</b> for more details.
 
 
 All R code:
